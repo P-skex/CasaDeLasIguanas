@@ -2,8 +2,6 @@ La Casa De Las Iguanas
 
 Un juego de simulación y estrategia de colonias.
 
-(Opcional: Reemplaza esto con una captura de pantalla del juego si lo prefieres)
-
 🚀 Cómo Jugar
 
 Este juego requiere Python 3 y algunas librerías para funcionar.
@@ -19,7 +17,6 @@ Si tu antivirus detecta una amenaza al descargar el ZIP o al ejecutar el archivo
 Abre una terminal (CMD, PowerShell, Terminal) en la carpeta del proyecto que acabas de descomprimir y ejecuta:
 
 pip install -r requirements.txt
-
 
 
 3. ¡Juega!
